@@ -3,7 +3,7 @@ Hi, I'm Calvin! I'm a Passionate Cybersecurity Analyst</h1>
 <h2>👨‍💻  Cybersecurity Projects:</h2>
 
 -<h2> Azure / Cloud Projects:</h2>
-- Creating a Live SOC/Honeynet in Azure https://github.com/Syamcl1961/Azure-SOC-Honeynet
+- Creating a Live SOC/Honeynet in Azure 
  
 <h2>📺 Popular YouTube Videos</h2>
 
