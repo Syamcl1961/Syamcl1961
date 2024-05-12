@@ -1,9 +1,9 @@
 Hi, I'm Calvin! I'm a Passionate Cybersecurity Analyst</h1>
 
-
 <h2>👨‍💻  Cybersecurity Projects:</h2>
+
 -<h2> Azure / Cloud Projects:</h2>
-- [Creating a Live SOC/Honeynet in Azure] (https://github.com/Syamcl1961/Azure-SOC-Honeynet)
+- Creating a Live SOC/Honeynet in Azure (https://github.com/Syamcl1961/Azure-SOC-Honeynet)
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
