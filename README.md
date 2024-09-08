@@ -8,7 +8,7 @@ Hi, I'm Calvin! I'm a Passionate Cybersecurity Analyst</h1>
  
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- My journey in computer science has led me to develope a passion for cybersecurity, and now I am now eager to transition into this field, specifically aimning to join a Security Operation Center (SOC) as a Tier 1 Analyst.
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
