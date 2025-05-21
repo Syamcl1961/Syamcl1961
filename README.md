@@ -14,7 +14,7 @@ Hi, I'm Calvin! I'm a Passionate Cybersecurity Analyst</h1>
 
 -Google Cybersecurity Certificate
 
--Cyerbersecurity Masterclass: SOC Analyst
+-Cyerbersecurity Analyst (LeveldCareers) 
 
  
 <h2>📺 Popular YouTube Videos</h2>
