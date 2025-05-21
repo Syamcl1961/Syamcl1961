@@ -1,6 +1,5 @@
-Hi, I'm Calvin! I'm a Passionate Cybersecurity Analyst</h1>
+   Hi, I'm Calvin! I'm a Passionate Cybersecurity Analyst</h1>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 
 
 
@@ -34,7 +33,6 @@ Hi, I'm Calvin! I'm a Passionate Cybersecurity Analyst</h1>
 
 
 
-* My journey in computer science has led me to develope a passion for cybersecurity, and now I am now eager to transition into this field, specifically aimning to join a Security Operation Center (SOC) as a Tier 1 Analyst.
 * [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 * [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
