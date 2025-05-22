@@ -18,10 +18,10 @@
 
 
 
-
 *<h2> Azure / Cloud Cybersecurity Projects:</h2>
 * [Creating a Live SOC/Honeynet in Azure](https://github.com/Syamcl1961/Azure-SOC-Honeynet)
-*<a href="https:// 
+  
+*<a href="https://https://github.com/Syamcl1961/Detection-Lab 
 
   
 
