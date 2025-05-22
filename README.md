@@ -17,14 +17,20 @@
 
 
 
+
+
 *<h2> Azure / Cloud Cybersecurity Projects:</h2>
 * [Creating a Live SOC/Honeynet in Azure](https://github.com/Syamcl1961/Azure-SOC-Honeynet)
+
+
+
 
 <h2> Certifications</h2>
 
 *Google Cybersecurity Certificate
 
 *Cyerbersecurity Analyst (LeveldCareers) 
+
 
  
 <h2>📺 Popular YouTube Videos</h2>
