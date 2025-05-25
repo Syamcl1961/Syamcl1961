@@ -40,7 +40,7 @@
 
  *Cyerbersecurity Analyst (LeveldCareers)
 
- *MYDFIR SOC Analyst Course*
+ *MYDFIR SOC Analyst Course* (In Progress)
 
  *Security + (SY0-701) (In Progress)
 
