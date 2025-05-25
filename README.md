@@ -51,6 +51,39 @@
 ## IT & Technical Experience
 
 **Owner & Lead Technicaian** - *Mays Computers Services*
+*Self-Employed - 13+ years*
+Operate a local compurter repair and consulting shop focused on:
+- PC/Mac diagnostics and repair
+- Network sertup and troubleshooting
+- Data recovery and system upgrades
+- Security hardening for small business environments
+
+- ** Associate Degree-Computer Engineering Technoloyg**
+- Focused on Hardware, embedded systems, and networking
+- ** Associate Degree-Nuclear Engineering Technology**
+- Focused on techinical systems, process control, and operations
+
+
+### Industrial Operations Experience
+
+**Senior Chemical Plant Operator** - * (Kemira Chemiacals)
+*28.5 years experience* in a highly technical, safety-critical environment:
+-Managed plant operations, including Electro-chemical process control and instrumentation
+-Implemented Safety Protocols and handled emergency using Standard Operating Procedure (SOP)
+-Operated and maintained high-pressure, high-temperature systems
+
+## Use Cases
+Testing user autentication in Windows Server Environments
+-Training labs for cybersecurity, sysadmin, or AD BASICS
+-Simulating logon behavior with many users
+-Practicing scripting and automation in PowerShell
+
+
+## Contact
+**Email**: cmays88@comcast.net
+**LinkedIn**:
+**Location**: North Augusta, South Carolina
+
 
 
 
