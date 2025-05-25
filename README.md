@@ -13,7 +13,7 @@
 
 
 <h2>👨‍💻  Cybersecurity Projects:</h2>
-*Active Directory Home Labhttps://github.com/joshcybertest/LABURL
+*https://github.com/Syamcl1961/Active-Directory-Lab/blob/main/ActiveDirectoryJosh.drawio.png
 
 
 
