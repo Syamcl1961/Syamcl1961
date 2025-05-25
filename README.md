@@ -24,7 +24,7 @@
 
 
 
-*<h2> Azure / Cloud Cybersecurity Projects:</h2>
+* <h2> Azure / Cloud Cybersecurity Projects:</h2>
 * [Creating a Live SOC/Honeynet in Azure](https://github.com/Syamcl1961/Azure-SOC-Honeynet)
   
 * "https://https://github.com/Syamcl1961/Detection-Lab 
@@ -36,13 +36,21 @@
 
 <h2> Certifications</h2>
 
-*Google Cybersecurity Certificate
+ *Google Cybersecurity Certificate
 
-*Cyerbersecurity Analyst (LeveldCareers) 
+ *Cyerbersecurity Analyst (LeveldCareers)
+
+ *MYDFIR SOC Analyst Course*
+
+ *Security + (SY0-701) (In Progress)
 
 
 
-##Skills
+## Work Experience & Background
+
+## IT & Technical Experience
+
+**Owner & Lead Technicaian** - *Mays Computers Services*
 
 
 
