@@ -15,6 +15,10 @@
 <h2>👨‍💻  Cybersecurity Projects:</h2>
 *Creating A virtual A Lab environment to Simulate A Enterprise Network
 
+
+
+
+
 *https://github.com/Syamcl1961/Active-Directory-Lab/blob/main/ActiveDirectoryJosh.drawio.png
 
 
@@ -23,7 +27,7 @@
 *<h2> Azure / Cloud Cybersecurity Projects:</h2>
 * [Creating a Live SOC/Honeynet in Azure](https://github.com/Syamcl1961/Azure-SOC-Honeynet)
   
-*<a href="https://https://github.com/Syamcl1961/Detection-Lab 
+* "https://https://github.com/Syamcl1961/Detection-Lab 
 
   
 
