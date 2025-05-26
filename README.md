@@ -52,7 +52,7 @@
 
 **Owner & Lead Technicaian** - *Mays Computers Services*
 *Self-Employed - 13+ years*
-Operate a local compurter repair and consulting shop focused on:
+Operate a local computer repair and consulting shop focused on:
 - PC/Mac diagnostics and repair
 - Network sertup and troubleshooting
 - Data recovery and system upgrades
