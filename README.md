@@ -87,6 +87,8 @@ Testing user autentication in Windows Server Environments
 
 **Location**: North Augusta, South Carolina
 
+**[My Portfolio](https://github.com/Syamcl1961/Syamcl1961)
+
 
 
 
