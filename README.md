@@ -82,10 +82,10 @@ Testing user autentication in Windows Server Environments
 ## Contact
 **Email**: cmays88@comcast.net
 
-**LinkedIn**:[My LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+**LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
 
-**My Portfolio**:(https://github.com/Syamcl1961/Syamcl1961)
+**My Portfolio**: (https://github.com/Syamcl1961/Syamcl1961)
 
 
 **Location**: North Augusta, South Carolina
