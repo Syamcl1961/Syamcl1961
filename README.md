@@ -38,7 +38,7 @@
 
  *Google Cybersecurity Certificate
 
- *Cyerbersecurity Analyst (LeveldCareers)
+ *Cyerbersecurity Analyst Certificate (LeveldCareers)
 
  *MYDFIR SOC Analyst Course* (In Progress)
 
@@ -66,10 +66,10 @@ Operate a local computer repair and consulting shop focused on:
 
 ### Industrial Operations Experience
 
-**Senior Chemical Plant Operator** - * (Kemira Chemiacals)
+**Senior Chemical Plant Operator** - * (Kemira Chemicals)
 *28.5 years experience* in a highly technical, safety-critical environment:
 -Managed plant operations, including Electro-chemical process control and instrumentation
--Implemented Safety Protocols and handled emergency using Standard Operating Procedure (SOP)
+-Implemented Safety Protocols and handled emergency using Standard Operating Procedure (SOP)(Playbook)
 -Operated and maintained high-pressure, high-temperature systems
 
 ## Use Cases
