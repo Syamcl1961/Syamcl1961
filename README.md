@@ -46,7 +46,7 @@
 
 
 
-## Work Experience & Background
+
 
 ## IT & Technical Experience
 
@@ -64,7 +64,7 @@ Operate a local computer repair and consulting shop focused on:
 - Focused on techinical systems, process control, and operations
 
 
-### Industrial Operations Experience
+### Work Experience & Background
 
 **Senior Chemical Plant Operator** - * (Kemira Chemicals)
 *28.5 years experience* in a highly technical, safety-critical environment:
