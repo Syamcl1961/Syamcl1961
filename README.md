@@ -13,7 +13,7 @@
 
 
 <h2>👨‍💻  Cybersecurity Projects:</h2>
-*Creating A virtual A Lab environment to Simulate A Enterprise Network
+*Creating A virtual Lab environment to Simulate A Enterprise Network
 
 
 
