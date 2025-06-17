@@ -5,7 +5,7 @@
 
 
 * My journey in computer science has led me to develope a passion for cybersecurity, and now I am now eager to transition into this field, specifically aimning to join a Security Operation Center (SOC) as a Tier 1 Analyst.
-
+* I am currently building my Security Analyst skills through the use of certifications and projects/labs.
 
 
 
