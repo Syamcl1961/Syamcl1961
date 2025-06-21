@@ -73,7 +73,7 @@ Operate a local computer repair and consulting shop focused on:
 -Operated and maintained high-pressure, high-temperature systems
 
 ## Use Cases
-Testing user autentication in Windows Server Environments
+Testing user authentication in Windows Server Environments
 -Training labs for cybersecurity, sysadmin, or AD BASICS
 -Simulating logon behavior with many users
 -Practicing scripting and automation in PowerShell
